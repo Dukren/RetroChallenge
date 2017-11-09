@@ -5,6 +5,8 @@ Prerequisites:  Java 1.8, Maven
 <hr>
 Compiling and running from commandline:
 
+Download and unzip files. Navigate to project directory.
+
 Compile instructions:
 From project root directory, run the following command:
 <b>mvn clean package</b>
