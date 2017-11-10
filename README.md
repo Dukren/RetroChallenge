@@ -27,3 +27,9 @@ Set commandline parameters in run configuration as {SEARCH STRING} {TEST FILE}.
 Set Maven build goals to {clean package}.
 
 Execute Maven goals and Run.
+
+<hr>
+Dependencies:
+commons-collections-3.2.1.jar, guava-18.0.jar
+
+Dependencies should be auto downloaded during build process
